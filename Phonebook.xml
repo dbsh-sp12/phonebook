@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneDirectory>
-  <MenuItem>
-    <Prompt>株式会社A</Prompt>
-    <URI>0312345678</URI>
-  </MenuItem>
-  <MenuItem>
-    <Prompt>株式会社B</Prompt>
-    <URI>0612345678</URI>
-  </MenuItem>
-</YealinkIPPhoneDirectory>
+<?xml version="1.0" encoding="utf-8"?>
+<IPPhoneDirectory>
+</IPPhoneDirectory>
