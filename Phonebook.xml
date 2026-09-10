@@ -8,4 +8,8 @@
     <Prompt>株式会社B</Prompt>
     <URI>0612345678</URI>
   </MenuItem>
+  <MenuItem>
+    <Prompt>株式会社Ｄ</Prompt>
+    <URI>221</URI>
+  </MenuItem>
 </YealinkIPPhoneDirectory>
