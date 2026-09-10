@@ -9,4 +9,18 @@
     <Telephone>800</Telephone>
     <Telephone>120123456</Telephone>
   </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>test</Name>
+    <Telephone>120123456</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>test2</Name>
+    <Telephone>1200000000</Telephone>
+    <Telephone>2222222</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>テスト３</Name>
+    <Telephone>0001</Telephone>
+    <Telephone>3</Telephone>
+  </DirectoryEntry>
 </IPPhoneDirectory>
